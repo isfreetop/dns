@@ -9,11 +9,13 @@ It offers a simple, secure, and commitment-free solution to host your own DynDNS
 - Secure: Authentication is done using unique tokens—no passwords needed.
 - Cross-platform: A single lightweight Python script works on both Windows and Linux.
 
-## Download
+## Download Client Windows 
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 [![Download Windows](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Windows")](https://raw.githubusercontent.com/isfreetop/dns/refs/heads/main/dyndns-client/windows/windows-dnsisfree.top.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
+
+## Donwload Client Linux
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 [![Download Windows](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Linux")](https://raw.githubusercontent.com/isfreetop/dns/refs/heads/main/dyndns-client/linux/linux-dnsisfree.top.zip)

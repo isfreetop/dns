@@ -5,6 +5,12 @@ It offers a simple, secure, and commitment-free solution to host your own DynDNS
 
 ![Screen Install ](/screen/screen1.png)
 
+# DNS.isfree.top 
+
+## Client Windows / Linux 
+
+https://github.com/isfreetop/dns/tree/main/dyndns-client
+
 ## Main Features:
 - Free and ad-free: No subscription required, no tracking involved.
 - Easy to configure: Just enter your email address and the DynDNS tokens you want to update.
