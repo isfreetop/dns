@@ -3,6 +3,8 @@ DynDNS IsFree.top is a free DynDNS client that automatically updates your dynami
 
 It offers a simple, secure, and commitment-free solution to host your own DynDNS service on an open infrastructure.
 
+![Screen Install ](/screen/screen1.png)
+
 ## Main Features:
 - Free and ad-free: No subscription required, no tracking involved.
 - Easy to configure: Just enter your email address and the DynDNS tokens you want to update.

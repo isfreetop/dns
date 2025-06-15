@@ -12,11 +12,11 @@ It offers a simple, secure, and commitment-free solution to host your own DynDNS
 ## Download
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download Windows](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Windows")](/dyndns-client/windows/windows-dnsisfree.top.zip)
+[![Download Windows](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Windows")](https://raw.githubusercontent.com/isfreetop/dns/refs/heads/main/dyndns-client/windows/windows-dnsisfree.top.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download Windows](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Linux")](/dyndns-client/linux/linux-dnsisfree.top.zip)
+[![Download Windows](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Linux")](https://raw.githubusercontent.com/isfreetop/dns/refs/heads/main/dyndns-client/linux/linux-dnsisfree.top.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 ## Configuration
