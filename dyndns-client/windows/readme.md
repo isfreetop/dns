@@ -21,6 +21,13 @@ It offers a simple, secure, and commitment-free solution to host your own DynDNS
 [![Download Windows](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Linux")](https://raw.githubusercontent.com/isfreetop/dns/refs/heads/main/dyndns-client/linux/linux-dnsisfree.top.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
+## Donwload Client CLI Synologie/Linux
+
+<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+[![Download Windows](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Linux")](https://raw.githubusercontent.com/isfreetop/dns/refs/heads/main/dyndns-client/sources/dnsisfree.top.cli.py)
+<!-- END LATEST DOWNLOAD BUTTON -->
+
+
 ## Configuration
 
 ![Screen Install ](/screen/screen1.png)
@@ -40,6 +47,13 @@ It offers a simple, secure, and commitment-free solution to host your own DynDNS
 
 ### The DNS update occurs every 10 minutes.
 
+## Configure CLI for Synologie 
+
+Go to DSM > Control Panel > Task Scheduler.
+
+Create a new task > Scheduled task > User-defined script.
+
+Command: /usr/bin/python3 /volume1/homes/admin/dnsisfree.top.cli.py
 
 ## DNS Free Is Top
 https://dns.isfree.top
